@@ -25,7 +25,7 @@
 SC.stringsFor('English', {
 
   // CFM/File menu
-  'DG.fileMenu.menuItem.newDocument': "New",
+  'DG.fileMenu.menuItem.newDocument': "新增",
   'DG.fileMenu.menuItem.openDocument': "Open...",
   'DG.fileMenu.menuItem.closeDocument': "Close",
   'DG.fileMenu.menuItem.importFile': "Import...",
